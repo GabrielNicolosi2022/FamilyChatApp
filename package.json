@@ -9,9 +9,6 @@
     "start": "src/app.js",
     "dev": "nodemon src/app.js"
   },
-  "engines": {
-    "node": "18.16.0"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",

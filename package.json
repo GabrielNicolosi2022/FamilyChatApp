@@ -1,7 +1,7 @@
 {
   "name": "familychat-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Esta es una aplicación de chat simple hecha desde el backend con express.js express-handlebars y socket.io",
   "main": "index.js",
   "type": "module",
   "scripts": {
